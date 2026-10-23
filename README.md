@@ -1,6 +1,6 @@
 # Bad Apple!! inside The Farmer Was Replaced
 
-[Youtube: Bad Apple!! in The Farmer Was Replaced at 15 FPS](https://youtu.be/7YKDrTgywvM?si=S7yBXUB88tyLdK8F)]
+[Youtube: Bad Apple!! in The Farmer Was Replaced at 15 FPS](https://youtu.be/7YKDrTgywvM?si=S7yBXUB88tyLdK8F)
 
 A project that brings the legendary **Bad Apple!!** animation into the programming automation game *The Farmer Was Replaced*.
 
