@@ -7,7 +7,13 @@ A project that brings the legendary **Bad Apple!!** animation into the programmi
 ## 📁 Project Structure & File Descriptions
 
 * **`convert/` folder** — Contains the tools for video preprocessing and compression:
-  * `bad_apple` — The original video file (`inp.mp4`) used as the source material.
+  * `bad_apple` — The original video
+
+https://github.com/user-attachments/assets/9afb082f-56d9-4dc8-9bb1-f70c0612b3a5
+
+
+
+ file (`inp.mp4`) used as the source material.
   * `gen` — An AI-assisted Python converter script. It handles advanced video processing: downsamples the frame rate to match the game logic, resizes frames to a 100x100 grid, converts images to binary black-and-white, and compresses them using the **RLE (Run-Length Encoding)** algorithm for optimal game performance.
 
 * **Core Visualization Scripts**:
